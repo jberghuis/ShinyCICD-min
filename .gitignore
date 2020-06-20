@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+ShinyCICD.Rcheck/
+ShinyCICD*.tar.gz
+ShinyCICD*.tgz
