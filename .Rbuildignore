@@ -10,3 +10,4 @@ $run_dev.*
 ^ShinyCICD\.Rcheck$
 ^ShinyCICD.*\.tar\.gz$
 ^ShinyCICD.*\.tgz$
+^\.travis\.yml$
